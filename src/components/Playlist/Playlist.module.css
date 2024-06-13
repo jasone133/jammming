@@ -1,0 +1,42 @@
+.container {
+    background-color: #26004d;
+    border-radius: 5px;
+    width: 33%;
+    height: 600px;
+    padding: 10px;
+    overflow-y: scroll;
+    scrollbar-width: none;
+}
+
+.playlistName {
+    color: white;
+    background-color: transparent;
+    border: 0;
+    border-bottom: white solid 1px;
+    width: 100%;
+    font-size: 30px;
+    font-weight: bold;
+    outline: none;
+    margin-top: 10px;
+}
+
+.tracklist {
+    width: 100%;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.saveButton {
+    background-color: blueviolet;
+    color: white;
+    cursor: pointer;
+    border-radius: 10px;
+    font-size: 20px;
+    width: 40%;
+    border: 0;
+    padding: 5px;
+}

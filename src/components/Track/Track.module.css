@@ -1,0 +1,26 @@
+.name {
+    color: white;
+    font-weight: bold;
+}
+
+.details {
+    color: gray
+}
+
+.container {
+    border-bottom: 1px solid white;
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.trackButton {
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.trackButton:hover {
+    color: gray;
+}

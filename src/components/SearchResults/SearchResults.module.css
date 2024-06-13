@@ -1,0 +1,16 @@
+.container {
+    background-color: #26004d;
+    border-radius: 5px;
+    width: 33%;
+    height: 600px;
+    padding: 10px;
+    overflow-y: scroll;
+    scrollbar-width: none;
+}
+
+.title {
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 10px;
+}

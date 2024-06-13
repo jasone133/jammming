@@ -1,0 +1,29 @@
+.header {
+  height: 80px;
+  background-color: #26004d;
+  font-size: 50px;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  margin: 0;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(98, 33, 144);
+  height: 1200px;
+}
+
+.lists {
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+  margin-top: 75px;
+  max-height: 600px;
+  
+}
+
+.text {
+  color: rgb(98, 33, 144)
+}

@@ -1,0 +1,32 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    margin-top: 100px;
+    align-items: center;
+    gap: 50px;
+}
+
+.input {
+    width: 30%;
+    height: 50px;
+    border-radius: 5px;
+    font-size: 25px;
+    text-align: center;
+    border: 0;
+    outline: none;
+}
+
+.searchButton {
+    background-color: #26004d;
+    height: 40px;
+    color: white;
+    width: 15%;
+    border-radius: 20px;
+    font-size: 20px;
+    border: 0;
+    cursor: pointer;
+}
+
+.searchButton:hover {
+    background-color: blueviolet;
+}
